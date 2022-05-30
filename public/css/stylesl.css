@@ -1,0 +1,841 @@
+    /* font style */
+    
+    h3.text-header {
+        font-size: 24px;
+        margin: 0px;
+    }
+    
+    .text-mini {
+        font-size: 13px;
+    }
+    
+    .text-paragraph {
+        font-size: 16px;
+    }
+    
+    .table-sl-bordered thead th,
+    .table-bordered thead td {
+        border-bottom-width: 2px;
+    }
+    
+    .table-sl-bordered thead th {
+        vertical-align: bottom;
+        border-bottom: 2px solid #000;
+    }
+    
+    .table-sl-bordered th,
+    .table-sl-bordered td {
+        border: 1px solid #000;
+    }
+    
+    table.table-sl-border th,
+    table.table-sl-border td {
+        border: 1px solid #000 !important;
+    }
+    
+    table.table-sl-header-center th {
+        vertical-align: middle;
+    }
+    
+    table.table-sl-p-5px th {
+        padding: 5px !important;
+    }
+    
+    .f-kanit {
+        font-family: 'Kanit', sans-serif;
+    }
+    
+    .f-i {
+        font-style: italic;
+    }
+    
+    .f-u {
+        text-decoration: underline;
+    }
+    
+    .fs-4 {
+        font-size: 4px;
+    }
+    
+    .fs-5 {
+        font-size: 5px;
+    }
+    
+    .fs-6 {
+        font-size: 6px;
+    }
+    
+    .fs-7 {
+        font-size: 7px;
+    }
+    
+    .fs-8 {
+        font-size: 8px;
+    }
+    
+    .fs-9 {
+        font-size: 9px;
+    }
+    
+    .fs-10 {
+        font-size: 10px;
+    }
+    
+    .fs-11 {
+        font-size: 11px;
+    }
+    
+    .fs-12 {
+        font-size: 12px;
+    }
+    
+    .fs-13 {
+        font-size: 13px;
+    }
+    
+    .fs-14 {
+        font-size: 14px;
+    }
+    
+    .fs-15 {
+        font-size: 15px;
+    }
+    
+    .fs-16 {
+        font-size: 16px;
+    }
+    
+    .fs-17 {
+        font-size: 17px;
+    }
+    
+    .fs-18 {
+        font-size: 18px;
+    }
+    
+    .fs-20 {
+        font-size: 20px;
+    }
+    
+    .fs-22 {
+        font-size: 22px;
+    }
+    
+    .fs-24 {
+        font-size: 24px;
+    }
+    
+    .fs-26 {
+        font-size: 26px;
+    }
+    
+    .fs-28 {
+        font-size: 28px;
+    }
+    
+    .fs-30 {
+        font-size: 30px;
+    }
+    
+    .fw-1 {
+        font-weight: 100;
+    }
+    
+    .fw-2 {
+        font-weight: 200;
+    }
+    
+    .fw-3 {
+        font-weight: 300;
+    }
+    
+    .fw-4 {
+        font-weight: 400;
+    }
+    
+    .fw-5 {
+        font-weight: 500;
+    }
+    
+    .fw-6 {
+        font-weight: 600;
+    }
+    
+    .fw-7 {
+        font-weight: 700;
+    }
+    
+    .fw-8 {
+        font-weight: 800;
+    }
+    
+    .fw-9 {
+        font-weight: 900;
+    }
+    
+    .fw-b {
+        font-weight: bold;
+    }
+    
+    .fw-l {
+        font-weight: lighter;
+    }
+    
+    .fw-n {
+        font-weight: normal;
+    }
+    /* Element style */
+    
+    .w-95 {
+        width: 95%;
+    }
+    
+    .radius-10 {
+        border-radius: 10px;
+    }
+    
+    .radius-5 {
+        border-radius: 5px;
+    }
+    
+    .radius-3 {
+        border-radius: 3px;
+    }
+    /* color theame */
+    /* ---- win8 color ---- */
+    
+    .bg-win8-lime {
+        color: #fff;
+        background-color: #a4c400;
+    }
+    
+    .bg-win8-green {
+        color: #fff;
+        background-color: #60a917;
+    }
+    
+    .bg-win8-emerald {
+        color: #fff;
+        background-color: #008a00;
+    }
+    
+    .bg-win8-teal {
+        color: #fff;
+        background-color: #00aba9;
+    }
+    
+    .bg-win8-cyan {
+        color: #fff;
+        background-color: #1ba1e2;
+    }
+    
+    .bg-win8-blue {
+        color: #fff;
+        background-color: #3e65ff;
+    }
+    
+    .bg-win8-cobalt {
+        color: #fff;
+        background-color: #0050ef;
+    }
+    
+    .bg-win8-indigo {
+        color: #fff;
+        background-color: #6a00ff;
+    }
+    
+    .bg-win8-violet {
+        color: #fff;
+        background-color: #aa00ff;
+    }
+    
+    .bg-win8-pink {
+        color: #fff;
+        background-color: #f472d0;
+    }
+    
+    .bg-win8-magenta {
+        color: #fff;
+        background-color: #d80073;
+    }
+    
+    .bg-win8-crimson {
+        color: #fff;
+        background-color: #a20025;
+    }
+    
+    .bg-win8-red {
+        color: #fff;
+        background-color: #e51400;
+    }
+    
+    .bg-win8-orange {
+        color: #fff;
+        background-color: #fa6800;
+    }
+    
+    .bg-win8-amber {
+        color: #fff;
+        background-color: #f0a30a;
+    }
+    
+    .bg-win8-yellow {
+        color: #fff;
+        background-color: #e3c800;
+    }
+    
+    .bg-win8-brown {
+        color: #fff;
+        background-color: #825a2c;
+    }
+    
+    .bg-win8-olive {
+        color: #fff;
+        background-color: #6d8764;
+    }
+    
+    .bg-win8-steel {
+        color: #fff;
+        background-color: #647687;
+    }
+    
+    .bg-win8-mauve {
+        color: #fff;
+        background-color: #76608a;
+    }
+    
+    .bg-win8-taupe {
+        color: #fff;
+        background-color: #87794e;
+    }
+    
+    .bg-win8-sienna {
+        color: #fff;
+        background-color: #a0522d;
+    }
+    /* ---- win8 color ---- */
+    /* theame color  */
+    
+    .text-sl-orange {
+        color: #F67A37
+    }
+    
+    .text-sl-blue {
+        color: #446DDC
+    }
+    
+    .text-sl-brown-white {
+        color: #DFC35E
+    }
+    
+    .text-sl-brown {
+        color: #332C12
+    }
+    
+    .bg-sl-orange {
+        background-color: #F67A37
+    }
+    
+    .bg-sl-blue {
+        background-color: #446DDC
+    }
+    
+    .bg-sl-brown-white {
+        background-color: #DFC35E
+    }
+    
+    .bg-sl-brown {
+        background-color: #332C12
+    }
+    
+    .bg-sl-header {
+        background-color: #FFEBCD
+    }
+    /* tone color */
+    
+    .text-sl-b1 {
+        color: #98AEEB
+    }
+    
+    .text-sl-b2 {
+        color: #446DDC
+    }
+    
+    .text-sl-b3 {
+        color: #1D3F9A
+    }
+    
+    .text-sl-b4 {
+        color: #121B33
+    }
+    
+    .text-sl-p1 {
+        color: #AA70D7
+    }
+    
+    .text-sl-p2 {
+        color: #7831AE
+    }
+    
+    .text-sl-p3 {
+        color: #421B5F
+    }
+    
+    .text-sl-p4 {
+        color: #241332
+    }
+    
+    .text-sl-r1 {
+        color: #EBADA8
+    }
+    
+    .text-sl-r2 {
+        color: #D96156
+    }
+    
+    .text-sl-r3 {
+        color: #A22F25
+    }
+    
+    .text-sl-r4 {
+        color: #321513
+    }
+    
+    .text-sl-o1 {
+        color: #ECB99D
+    }
+    
+    .text-sl-o2 {
+        color: #DB7C49
+    }
+    
+    .text-sl-o3 {
+        color: #9E4B1F
+    }
+    
+    .text-sl-o4 {
+        color: #331D12
+    }
+    
+    .text-sl-y1 {
+        color: #F0E3B2
+    }
+    
+    .text-sl-y2 {
+        color: #E0C45D
+    }
+    
+    .text-sl-y3 {
+        color: #B49422
+    }
+    
+    .text-sl-y4 {
+        color: #342C12
+    }
+    
+    .text-sl-g1 {
+        color: #B3CE92
+    }
+    
+    .text-sl-g2 {
+        color: #83AD4E
+    }
+    
+    .text-sl-g3 {
+        color: #4D662E
+    }
+    
+    .text-sl-g4 {
+        color: #222F12
+    }
+    
+    .text-sl-gb1 {
+        color: #7FACBD
+    }
+    
+    .text-sl-gb1 {
+        color: #497A8D
+    }
+    
+    .text-sl-gb1 {
+        color: #26404A
+    }
+    
+    .text-sl-gb1 {
+        color: #12262F
+    }
+    
+    .bg-sl-b1 {
+        background-color: #98AEEB !important
+    }
+    
+    .bg-sl-b2 {
+        background-color: #446DDC !important
+    }
+    
+    .bg-sl-b3 {
+        background-color: #1D3F9A !important
+    }
+    
+    .bg-sl-b4 {
+        background-color: #121B33 !important
+    }
+    
+    .bg-sl-p1 {
+        background-color: #AA70D7 !important
+    }
+    
+    .bg-sl-p2 {
+        background-color: #7831AE !important
+    }
+    
+    .bg-sl-p3 {
+        background-color: #421B5F !important
+    }
+    
+    .bg-sl-p4 {
+        background-color: #241332 !important
+    }
+    
+    .bg-sl-r1 {
+        background-color: #EBADA8 !important
+    }
+    
+    .bg-sl-r2 {
+        background-color: #D96156 !important
+    }
+    
+    .bg-sl-r3 {
+        background-color: #A22F25 !important
+    }
+    
+    .bg-sl-r4 {
+        background-color: #321513 !important
+    }
+    
+    .bg-sl-o1 {
+        background-color: #ECB99D !important
+    }
+    
+    .bg-sl-o2 {
+        background-color: #DB7C49 !important
+    }
+    
+    .bg-sl-o3 {
+        background-color: #9E4B1F !important
+    }
+    
+    .bg-sl-o4 {
+        background-color: #331D12 !important
+    }
+    
+    .bg-sl-y1 {
+        background-color: #F0E3B2 !important
+    }
+    
+    .bg-sl-y2 {
+        background-color: #d8b538 !important
+    }
+    
+    .bg-sl-y3 {
+        background-color: #B49422 !important
+    }
+    
+    .bg-sl-y4 {
+        background-color: #342C12 !important
+    }
+    
+    .bg-sl-g1 {
+        background-color: #B3CE92 !important
+    }
+    
+    .bg-sl-g2 {
+        background-color: #83AD4E !important
+    }
+    
+    .bg-sl-g3 {
+        background-color: #4D662E !important
+    }
+    
+    .bg-sl-g4 {
+        background-color: #222F12 !important
+    }
+    
+    .bg-sl-gb1 {
+        background-color: #7FACBD !important
+    }
+    
+    .bg-sl-gb2 {
+        background-color: #497A8D !important
+    }
+    
+    .bg-sl-gb3 {
+        background-color: #26404A !important
+    }
+    
+    .bg-sl-gb4 {
+        background-color: #12262F !important
+    }
+    /* //set by Color Ncol เช่น R40, 10%, 0% = #ff751a สีส้ม */
+    /* สรุปสี r, o, y, yg, g, gs, s, sb, b, p, pi, pir */
+    
+    .bg-sl2-r1 {
+        background-color: #ff9999 !important
+    }
+    
+    .bg-sl2-r2 {
+        background-color: #ff8080 !important
+    }
+    
+    .bg-sl2-r3 {
+        background-color: #ff6666 !important
+    }
+    
+    .bg-sl2-r4 {
+        background-color: #ff4d4d !important
+    }
+    
+    .bg-sl2-r5 {
+        background-color: #ff3333 !important
+    }
+    
+    .bg-sl2-o1 {
+        background-color: #ffb380 !important
+    }
+    
+    .bg-sl2-o2 {
+        background-color: #ffa366 !important
+    }
+    
+    .bg-sl2-o3 {
+        background-color: #ff944d !important
+    }
+    
+    .bg-sl2-y1{
+        background-color: #ff8533 !important
+    }
+    
+    .bg-sl2-o3 {
+        background-color: #ff751a !important
+    }
+    
+    .bg-sl2-y1 {
+        background-color: #ffd980 !important
+    }
+    
+    .bg-sl2-y2 {
+        background-color: #ffd166 !important
+    }
+    
+    .bg-sl2-y3 {
+        background-color: #ffc94d !important
+    }
+    
+    .bg-sl2-y4 {
+        background-color: #ffc233 !important
+    }
+    
+    .bg-sl2-y5 {
+        background-color: #ffba1a !important
+    }
+    
+    .bg-sl2-yg1 {
+        background-color: #c7e680 !important
+    }
+    
+    .bg-sl2-yg2 {
+        background-color: #bfe666 !important
+    }
+    
+    .bg-sl2-yg3 {
+        background-color: #afd94d !important
+    }
+    
+    .bg-sl2-yg4 {
+        background-color: #a7d933 !important
+    }
+    
+    .bg-sl2-yg5 {
+        background-color: #9fd91a !important
+    }
+    
+    .bg-sl2-g1 {
+        background-color: #b3d9b3 !important
+    }
+    
+    .bg-sl2-g2 {
+        background-color: #99d999 !important
+    }
+    
+    .bg-sl2-g3 {
+        background-color: #80d980 !important
+    }
+    
+    .bg-sl2-g4 {
+        background-color: #66d966 !important
+    }
+    
+    .bg-sl2-g5 {
+        background-color: #4dd94d !important
+    }
+    
+    .bg-sl2-gs1 {
+        background-color: #b3d9cd !important
+    }
+    
+    .bg-sl2-gs2 {
+        background-color: #99d9c6 !important
+    }
+    
+    .bg-sl2-gs3 {
+        background-color: #66d9b6 !important
+    }
+    
+    .bg-sl2-gs4 {
+        background-color: #33d9a7 !important
+    }
+    
+    .bg-sl2-gs5 {
+        background-color: #00d998 !important
+    }
+    
+    .bg-sl2-s1 {
+        background-color: #99e0ff !important
+    }
+    
+    .bg-sl2-s2 {
+        background-color: #73d5ff !important
+    }
+    
+    .bg-sl2-s3 {
+        background-color: #4dc9ff !important
+    }
+    
+    .bg-sl2-s4 {
+        background-color: #26beff !important
+    }
+    
+    .bg-sl2-s5 {
+        background-color: #00b3ff !important
+    }
+    
+    .bg-sl2-sb1 {
+        background-color: #8cc6ff !important
+    }
+    
+    .bg-sl2-sb2 {
+        background-color: #63b1ff !important
+    }
+    
+    .bg-sl2-sb3 {
+        background-color: #42a1ff !important
+    }
+    
+    .bg-sl2-sb4 {
+        background-color: #2190ff !important
+    }
+    
+    .bg-sl2-sb5 {
+        background-color: #0080ff !important
+    }
+    
+    .bg-sl2-b1 {
+        background-color: #8099ff !important
+    }
+    
+    .bg-sl2-b2 {
+        background-color: #6685ff !important
+    }
+    
+    .bg-sl2-b3 {
+        background-color: #4d70ff !important
+    }
+    
+    .bg-sl2-b4 {
+        background-color: #335cff !important
+    }
+    
+    .bg-sl2-b5 {
+        background-color: #2652ff !important
+    }
+    
+    .bg-sl2-p1 {
+        background-color: #cc99ff !important
+    }
+    
+    .bg-sl2-p2 {
+        background-color: #bf80ff !important
+    }
+    
+    .bg-sl2-p3 {
+        background-color: #b366ff !important
+    }
+    
+    .bg-sl2-p4 {
+        background-color: #a64dff !important
+    }
+    
+    .bg-sl2-p5 {
+        background-color: #9933ff !important
+    }
+    
+    .bg-sl2-pi1 {
+        background-color: #ff99d6 !important
+    }
+    
+    .bg-sl2-pi2 {
+        background-color: #ff80cc !important
+    }
+    
+    .bg-sl2-pi3 {
+        background-color: #ff66c2 !important
+    }
+    
+    .bg-sl2-pi4 {
+        background-color: #ff4db8 !important
+    }
+    
+    .bg-sl2-pi5 {
+        background-color: #ff33ad !important
+    }
+    
+    .bg-sl2-pir1 {
+        background-color: #ff99ad !important
+    }
+    
+    .bg-sl2-pir2 {
+        background-color: #ff8099 !important
+    }
+    
+    .bg-sl2-pi5 {
+        background-color: #ff6685 !important
+    }
+    
+    .bg-sl2-pir4 {
+        background-color: #ff4d70 !important
+    }
+    
+    .bg-sl2-pir5 {
+        background-color: #ff335c !important
+    }
+    /* update bootstrap */
+    
+    .btn-noneactive {
+        color: #696969;
+        background-color: #DCDCDC;
+        border-color: #DCDCDC;
+    }
+    /* //ส่วนหัว submenu navbar */
+    
+    .nav-main-item-title {
+        display: flex;
+        flex-direction: column;
+        padding-top: 0.25rem;
+        padding-bottom: .10rem;
+        padding-left: 1rem;
+        font-size: .875rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: .0625rem;
+        color: #869099;
+    }

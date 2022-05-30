@@ -1,0 +1,76 @@
+
+table {
+  border: 1px solid black;
+}
+td {
+  border: 1px solid black;
+  font-family: 'Kanit', sans-serif;
+  font-size: 13px !important;
+  /* vertical-align: top; */
+  /* vertical-align:middle; */
+}
+th {
+  border: 1px solid black;
+  font-family: 'Kanit', sans-serif;
+  font-weight:normal;
+  font-size: 15px !important;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.fo13 {
+  font-family: 'Kanit', sans-serif;
+  font-size: 13px !important;
+}
+
+.fo14 {
+  font-family: 'Kanit', sans-serif;
+  font-size: 14px !important;
+}
+
+.fo15 {
+  font-family: 'Kanit', sans-serif;
+  font-size: 15px !important;
+}
+.foo13 {
+  font-family: 'Kanit', sans-serif;
+  font-weight:normal;
+  font-size: 13px !important;
+}
+.foo14 {
+  font-family: 'Kanit', sans-serif;
+  font-weight:normal;
+  font-size: 14px !important;
+}
+.foo15 {
+  font-family: 'Kanit', sans-serif;
+  font-weight:normal;
+  font-size: 15px !important;
+}
+.foo16 {
+  font-family: 'Kanit', sans-serif;
+  font-weight:normal;
+  font-size: 16px !important;
+}
+.foo19 {
+  font-family: 'Kanit', sans-serif;
+  font-weight:normal;
+  font-size: 19px !important;
+}
+.dataTables_wrapper   .dataTables_filter{
+  float: right 
+  }
+
+.dataTables_wrapper  .dataTables_length{
+      float: left 
+  }
+  .dataTables_info {
+      float: left;
+  }
+  .dataTables_paginate{
+      float: right
+  }
+
